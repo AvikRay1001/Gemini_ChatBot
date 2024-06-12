@@ -40,4 +40,4 @@ The Gemini Chatbot is an advanced conversational AI solution built using Node.js
 * **`index.js` (or similar):** Contains the main Javascript code with components and logic to interface with Gemini Pro.
 * **`.env`:** Stores your Google API key securely.
 
-**Please let me know if you'd like any modifications or additional sections to be included in your README file!** 
+**Please let me know if you'd like any modifications or additional sections to be included!** 
